@@ -290,6 +290,8 @@ footer{padding:3rem 2rem 2.5rem;text-align:center;border-top:1px solid rgba(217,
   .about-text{font-size:1.12rem;line-height:1.7}
   .visit-socials{flex-direction:row}
   .gallery-grid{grid-template-columns:repeat(2,1fr)}
+  .menu-tabs{overflow-x:visible}
+  .menu-tab{flex:1 1 0;min-width:0;padding:.8rem .3rem;font-size:.66rem;letter-spacing:.04em;white-space:normal;line-height:1.25;text-align:center}
 }
 @media (max-width:480px){
   section{padding:3.6rem 1rem}
